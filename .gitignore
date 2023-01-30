@@ -1,0 +1,6 @@
+tests/
+funcs/__pycache__
+venv/
+.pytest_cache/
+funcs/__pycache__
+setup.md
